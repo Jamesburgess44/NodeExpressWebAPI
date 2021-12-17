@@ -1,0 +1,22 @@
+{
+  "name": "nodeexpresswebapi",
+  "version": "1.0.0",
+  "description": "Implementing a Web API with Node, Express, MongoDB and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamesburgess44/NodeExpressWebAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jamesburgess44/NodeExpressWebAPI/issues"
+  },
+  "homepage": "https://github.com/Jamesburgess44/NodeExpressWebAPI#readme",
+  "dependencies": {
+    "mongoose": "^6.1.2"
+  }
+}
